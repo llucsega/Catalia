@@ -1,3 +1,9 @@
 <resources>
-    <string name="app_name">Catàlia</string>
+    <string name="app_name">Catalia</string>
+    <string name="titol_benvinguda">Benvingut a Catàlia</string>
+    <string name="boto_comenca">Comença el curs</string>
+    <string name="seleccio_nivell">Selecciona el nivell</string>
+    <string name="nivell_basic">Bàsic</string>
+    <string name="nivell_intermedi">Intermedi</string>
+    <string name="nivell_avançat">Avançat</string>
 </resources>
